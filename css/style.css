@@ -28,6 +28,10 @@ img {
   left: 0;
 }
 
+.cabecalho code {
+  font-size: 24px;
+}
+
 code:hover {
   color: #FFF;
   cursor: pointer;
